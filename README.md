@@ -1,2 +1,2 @@
-# Android-Uinput
+# AndroidMouseInput
 Android上层应用模拟鼠标输入事件并注入系统uinput驱动
